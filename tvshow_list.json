@@ -1,0 +1,555 @@
+[
+  {
+    "score": 0.7030195,
+    "show": {
+      "id": 28276,
+      "url": "https://www.tvmaze.com/shows/28276/the-witcher",
+      "name": "The Witcher",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Action",
+        "Fantasy"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": 58,
+      "premiered": "2019-12-20",
+      "ended": null,
+      "officialSite": "https://www.netflix.com/title/80189685",
+      "schedule": {
+        "time": "",
+        "days": []
+      },
+      "rating": {
+        "average": 8.3
+      },
+      "weight": 100,
+      "network": null,
+      "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 362696,
+        "imdb": "tt5180504"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/370/925822.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/370/925822.jpg"
+      },
+      "summary": "<p>Based on the best-selling fantasy series, <b>The Witcher</b> is an epic tale of fate and family. Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts. But when destiny hurtles him toward a powerful sorceress, and a young princess with a dangerous secret, the three must learn to navigate the increasingly volatile Continent together.</p>",
+      "updated": 1641900708,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/28276"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2127864"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.5561966,
+    "show": {
+      "id": 49382,
+      "url": "https://www.tvmaze.com/shows/49382/the-witcher-blood-origin",
+      "name": "The Witcher: Blood Origin",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Action",
+        "Fantasy"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": "https://www.netflix.com/title/81279312",
+      "schedule": {
+        "time": "",
+        "days": []
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 98,
+      "network": null,
+      "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 399987,
+        "imdb": "tt12785720"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/384/960925.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960925.jpg"
+      },
+      "summary": "<p>In an elven world 1,200 years before Geralt of Rivia, the worlds of monsters, men and elves merge to become one — and the very first Witcher arises.</p>",
+      "updated": 1639742979,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/49382"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.5538894,
+    "show": {
+      "id": 57907,
+      "url": "https://www.tvmaze.com/shows/57907/the-witcher-anime-specials",
+      "name": "The Witcher Anime Specials",
+      "type": "Animation",
+      "language": "English",
+      "genres": [],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 82,
+      "premiered": "2021-08-23",
+      "ended": "2021-08-23",
+      "officialSite": null,
+      "schedule": {
+        "time": "",
+        "days": [
+          "Monday"
+        ]
+      },
+      "rating": {
+        "average": 8.5
+      },
+      "weight": 94,
+      "network": null,
+      "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": null,
+        "imdb": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/363/907665.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907665.jpg"
+      },
+      "summary": "<p>A series of anime specials set within the world of <b>The Witcher</b>. </p>",
+      "updated": 1641671400,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/57907"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2180043"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.46486866,
+    "show": {
+      "id": 50167,
+      "url": "https://www.tvmaze.com/shows/50167/the-witcher-a-look-inside-the-episodes",
+      "name": "The Witcher: A Look Inside the Episodes",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "To Be Determined",
+      "runtime": null,
+      "averageRuntime": 6,
+      "premiered": "2020-09-02",
+      "ended": null,
+      "officialSite": "https://www.netflix.com/title/81294100",
+      "schedule": {
+        "time": "",
+        "days": []
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 90,
+      "network": null,
+      "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": null,
+        "imdb": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/271/679325.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/271/679325.jpg"
+      },
+      "summary": "<p>With series creator Lauren S. Hissrich as your guide, take an in-depth journey into the stories and themes powering the first season of <i>The Witcher</i>.</p>",
+      "updated": 1639818360,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/50167"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1925239"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.46366557,
+    "show": {
+      "id": 42430,
+      "url": "https://www.tvmaze.com/shows/42430/watcher",
+      "name": "Watcher",
+      "type": "Scripted",
+      "language": "Korean",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "status": "Ended",
+      "runtime": 80,
+      "averageRuntime": 80,
+      "premiered": "2019-07-06",
+      "ended": "2019-08-25",
+      "officialSite": "http://program.tving.com/ocn/watcher",
+      "schedule": {
+        "time": "22:20",
+        "days": [
+          "Saturday",
+          "Sunday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 70,
+      "network": {
+        "id": 267,
+        "name": "OCN",
+        "country": {
+          "name": "Korea, Republic of",
+          "code": "KR",
+          "timezone": "Asia/Seoul"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 363990,
+        "imdb": "tt10405674"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/202/505975.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/505975.jpg"
+      },
+      "summary": "<p>Three people who've had a glamorous life ahead of them have fallen out of life as each of them experienced a tragic event. While all of them join up with an police anti-corruption team, they now discover the real realities of power.</p>",
+      "updated": 1634673831,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/42430"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1681781"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.46270964,
+    "show": {
+      "id": 53830,
+      "url": "https://www.tvmaze.com/shows/53830/witches",
+      "name": "Witches",
+      "type": "Variety",
+      "language": "Korean",
+      "genres": [
+        "Sports"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2020-12-17",
+      "ended": "2021-01-14",
+      "officialSite": "https://www.wavve.com/player/vod?programid=C9901_C99000000047&page=1",
+      "schedule": {
+        "time": "",
+        "days": []
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 5,
+      "network": null,
+      "webChannel": {
+        "id": 114,
+        "name": "wavve",
+        "country": {
+          "name": "Korea, Republic of",
+          "code": "KR",
+          "timezone": "Asia/Seoul"
+        }
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 394090,
+        "imdb": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/298/745480.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/298/745480.jpg"
+      },
+      "summary": "<p>Yoon Bo Mi of Apink Comedian Kim Min Kyoung, the former rhythmic gymnast Shin Soo Ji, Cheerleader Park Ki Ryang, Anchorwoman Park Ji Young, and Actress Kang So Yeon are huge fans of baseball. They come together to actually try playing baseball themselves instead of just watching it. Although they all work in different industries, they unite thanks to their mutual love of the sport. Together, they strive to compete against other amateur teams. Will their earnest desire to work together and their ambition to win make all the difference? How will they grow together as a team?</p>",
+      "updated": 1614461893,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/53830"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2039627"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.4208194,
+    "show": {
+      "id": 15978,
+      "url": "https://www.tvmaze.com/shows/15978/hitched-or-ditched",
+      "name": "Hitched or Ditched",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2009-05-26",
+      "ended": "2009-06-30",
+      "officialSite": null,
+      "schedule": {
+        "time": "21:00",
+        "days": [
+          "Tuesday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 42,
+      "network": {
+        "id": 5,
+        "name": "The CW",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 99041,
+        "imdb": "tt1371887"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/354/885183.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/354/885183.jpg"
+      },
+      "summary": "<p>The CW is inviting people to meddle in the lives of their pals in <b>Hitched or Ditched</b>. Each week a couple, nominated by friends who feel they should either get married or call it quits, faces a series of personalized exercises designed to test their relationship and force them to confront their problems, which can range from meddling would-be in-laws to jealousy. At the same time, the wedding of their dreams is being planned. At week's end, the pair must decide whether they should go through with the ceremony or call the whole thing off.</p>",
+      "updated": 1630698453,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/15978"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/728934"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.41382846,
+    "show": {
+      "id": 37881,
+      "url": "https://www.tvmaze.com/shows/37881/switched",
+      "name": "Switched",
+      "type": "Scripted",
+      "language": "Japanese",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Supernatural"
+      ],
+      "status": "Ended",
+      "runtime": 45,
+      "averageRuntime": 39,
+      "premiered": "2018-08-01",
+      "ended": "2018-08-01",
+      "officialSite": "https://www.netflix.com/title/80230018",
+      "schedule": {
+        "time": "",
+        "days": [
+          "Wednesday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 42,
+      "network": null,
+      "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 350628,
+        "imdb": "tt8747882"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/405830.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/405830.jpg"
+      },
+      "summary": "<p>High schooler Ayumi's perfect world evaporates when her envious classmate Zenko somehow steals her body, her boyfriend and her life.</p>",
+      "updated": 1573155810,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/37881"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1507820"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.41333783,
+    "show": {
+      "id": 59249,
+      "url": "https://www.tvmaze.com/shows/59249/mayfair-witches",
+      "name": "Mayfair Witches",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+        "time": "",
+        "days": []
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 90,
+      "network": {
+        "id": 20,
+        "name": "AMC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": null,
+        "imdb": null
+      },
+      "image": null,
+      "summary": "<p><b>Mayfair Witches</b> centers on an intuitive young neurosurgeon who discovers that she is the unlikely heir to a family of witches. As she grapples with her newfound powers, she must contend with a sinister presence that has haunted her family for generations.</p>",
+      "updated": 1640782471,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/59249"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.40274912,
+    "show": {
+      "id": 46069,
+      "url": "https://www.tvmaze.com/shows/46069/twitches",
+      "name": "Twitches",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Fantasy"
+      ],
+      "status": "Ended",
+      "runtime": 120,
+      "averageRuntime": 120,
+      "premiered": "2005-10-14",
+      "ended": "2007-10-12",
+      "officialSite": null,
+      "schedule": {
+        "time": "19:00",
+        "days": [
+          "Friday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 34,
+      "network": {
+        "id": 78,
+        "name": "Disney Channel",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": null,
+        "imdb": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/238/597121.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/238/597121.jpg"
+      },
+      "summary": "<p>In the magical dimension of Coventry, an evil entity known as the Darkness attacks on the same night the royal witch Miranda gives birth to identical twin daughters on Halloween night. To keep them safe, they are taken to the non-magical dimension of Earth and are adopted by two different families. On their 21st birthday, they reunite and discover they are twins, and witches - twitches!</p>",
+      "updated": 1580523945,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/46069"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1796218"
+        }
+      }
+    }
+  }
+]
